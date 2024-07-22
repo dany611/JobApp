@@ -27,6 +27,10 @@ npm run start
 
 # For setup frontend 
 
+```
+cd job-frontend
+```
+
 
 Run npm install and then execute 
 
